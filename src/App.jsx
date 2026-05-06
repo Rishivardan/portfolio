@@ -134,7 +134,7 @@ const SKILL_GROUPS = [
     items: [
       {
         label: 'AWS (EC2, S3)',
-        icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg'
+        icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'
       },
       { label: 'CI/CD Pipelines', iconText: 'CI' },
       { label: 'Cloud Deployment (Vercel, Render)', iconText: 'CD' }
