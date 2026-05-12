@@ -200,7 +200,7 @@ const PROJECTS = [
       'Built a fully responsive website from scratch using semantic HTML5, CSS3, and vanilla JavaScript with clean structure and modern UI behavior.',
     tags: ['HTML5', 'CSS3', 'Vanilla JavaScript', 'Responsive Design'],
     demo: '#',
-    repo: 'https://github.com/Rishivardan'
+    repo: 'https://github.com/Rishivardan/portfolio.git'
   }
 ]
 
