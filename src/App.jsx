@@ -201,6 +201,16 @@ const PROJECTS = [
     tags: ['HTML5', 'CSS3', 'Vanilla JavaScript', 'Responsive Design'],
     demo: '#',
     repo: 'https://github.com/Rishivardan/portfolio.git'
+  },
+  {
+    title: 'Mini Service Request Board',
+    category: 'Full Stack',
+    image:'/Mini service request system.png',
+    description:
+       'Service Request Board is a full-stack web application built with Next.js, Express.js, and MongoDB that allows homeowners to post service requests for tasks such as plumbing, electrical work, painting, and joinery. Tradespeople can browse available jobs, view detailed information, update job statuses, and manage requests efficiently through a clean and responsive interface. The project demonstrates REST API development, CRUD operations, MongoDB integration, backend validation, and full-stack application architecture.',
+    tags: ['Next.js', 'Express.js', 'MongoDB', 'REST API', 'Full Stack Development'],
+    demo: 'https://globaltna-assessment-zeta.vercel.app/',
+    repo: 'https://github.com/Rishivardan/globaltna-assessment.git'
   }
 ]
 
