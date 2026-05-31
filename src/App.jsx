@@ -211,6 +211,27 @@ const PROJECTS = [
     tags: ['Next.js', 'Express.js', 'MongoDB', 'REST API', 'Full Stack Development'],
     demo: 'https://globaltna-assessment-zeta.vercel.app/',
     repo: 'https://github.com/Rishivardan/globaltna-assessment.git'
+  },
+  {
+    title: 'AI-Powered Event Personalization Platform',
+    category: 'AI & Full Stack',
+    image:'/accelalpha-event.png',
+    description:
+       'AI-Powered Event Personalization Platform is a full-stack web application built with React, Vite, Tailwind CSS, and FastAPI that delivers an interactive corporate event experience. The platform analyzes attendee interests and career challenges, intelligently matches them with relevant conference sessions using TF-IDF and cosine similarity, and generates grounded LLM-based invitation emails with hallucination safeguards. The project demonstrates AI integration, prompt engineering, REST API development, intelligent recommendation logic, MCP-style automation logging, and full-stack deployment using Vercel and Render.',
+    tags: [
+      'React',
+      'Vite',
+      'Tailwind CSS',
+      'FastAPI',
+      'Gemini API',
+      'TF-IDF',
+      'Cosine Similarity',
+      'REST API',
+      'Full Stack Development',
+      'AI Integration'
+    ],
+    demo: 'https://accelalpha-event.vercel.app/',
+    repo: 'https://github.com/Rishivardan/accelalpha-event.git'
   }
 ]
 
@@ -218,7 +239,8 @@ const PROJECT_FILTERS = [
   'All',
   'Web & Mobile',
   'Full Stack',
-  'Web Development'
+  'Web Development',
+  'AI & Full Stack'
 ]
 
 const TIMELINE = [
